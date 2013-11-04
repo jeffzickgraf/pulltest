@@ -3,3 +3,4 @@ Here is my doc
 Here is the middle
 
 Here is the end.
+End edn
